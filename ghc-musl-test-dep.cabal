@@ -2,7 +2,6 @@ cabal-version:       >=1.10
 
 name:                ghc-musl-test-dep
 version:             0.1.0.0
-license-file:        LICENSE
 author:              Utku Demir
 maintainer:          me@utdemir.com
 build-type:          Simple
